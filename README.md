@@ -18,14 +18,14 @@ The project requires the following dependencies to be installed:
 To use the project, follow these steps:
 
 1. Clone the repository: 
-  Use the following code to clone the repository-
-  git clone https://github.com/stokome/Nlp-Image-Search-Engine.git
+  Use the following code to clone the repository-                                                                                                                         
+  $git clone https://github.com/stokome/Nlp-Image-Search-Engine.git
   
 2. Install the dependencies:
-  Use the following code to install dependencies-
-  cd Nlp-Image-Search-Engine
-  pip install -r requirements.txt
+  Use the following code to install dependencies-                                                                                                                         
+  $cd Nlp-Image-Search-Engine                                                                                                                                             
+  $pip install -r requirements.txt
   
-3. Start the app:
-  streamlit run app.py
+3. Start the app:                                                                                                                                                         
+  $streamlit run app.py
   
