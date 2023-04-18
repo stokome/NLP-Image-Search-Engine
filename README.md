@@ -27,7 +27,7 @@ To use the project, follow these steps:
   
 2. Install the dependencies:
   Use the following code to install dependencies-                                                                                                                         
-  $cd Nlp-Image-Search-Engine                                                                                                                                             
+  $cd NLP-Image-Search-Engine                                                                                                                                             
   $pip install -r requirements.txt
   
 3. Start the app:                                                                                                                                                         
