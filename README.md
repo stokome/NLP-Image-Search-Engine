@@ -1,10 +1,12 @@
 # NLP-Image-Search-Engine
-NLP-Image-Search-Engine is a project that allows users to search for images based on natural language or image queries. The project uses OpenAI's CLIP (Contrastive Language-Image Pre-Training) model to generate embeddings for both the images in the dataset and the user's query. The embeddings are used to calculate the similarity between the images and the query, and the top-ranked images are returned to the user. The query can be natural language text or image provided by the user.
+NLP-Image-Search-Engine is a project that allows users to search for images based on natural language or image queries. The project uses OpenAI's CLIP (Contrastive Language-Image Pre-Training) model to generate embeddings for both the images in the dataset and the user's query. The embeddings are used to calculate the similarity between the images and the query, and the top-ranked images are returned to the user. The query can be natural language text or image provided by the user. The app is deployed using streamlit.
+
+# Screenshots of app
 
 # Dataset
 The project uses the Unsplash dataset of 25k images, which can be downloaded from the official Unsplash website or github repository.
 
-#Requirements
+# Requirements
 The project requires the following dependencies to be installed:
 1. Python 3.6+
 2. Tensorflow
@@ -14,7 +16,7 @@ The project requires the following dependencies to be installed:
 6. pandas
 7. requests
 
-#Usage
+# Usage
 To use the project, follow these steps:
 
 1. Clone the repository: 
