@@ -2,6 +2,8 @@
 NLP-Image-Search-Engine is a project that allows users to search for images based on natural language or image queries. The project uses OpenAI's CLIP (Contrastive Language-Image Pre-Training) model to generate embeddings for both the images in the dataset and the user's query. The embeddings are used to calculate the similarity between the images and the query, and the top-ranked images are returned to the user. The query can be natural language text or image provided by the user. The app is deployed using streamlit.
 
 # Screenshots of app
+![Uploading![img2](https://user-images.githubusercontent.com/87638990/232869820-fc824eeb-6266-408b-bbfe-0875355a5fd5.png)
+ img1.png…]()
 
 # Dataset
 The project uses the Unsplash dataset of 25k images, which can be downloaded from the official Unsplash website or github repository.
