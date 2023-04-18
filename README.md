@@ -6,6 +6,7 @@ The project uses the Unsplash dataset of 25k images, which can be downloaded fro
 
 ## Screenshots
 ![App Screenshot](https://github.com/stokome/NLP-Image-Search-Engine/blob/main/screenshots/img1.png)
+
 ![App Screenshot](https://github.com/stokome/NLP-Image-Search-Engine/blob/main/screenshots/img2.png)
 
 # Requirements
