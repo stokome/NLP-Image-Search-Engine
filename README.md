@@ -10,13 +10,8 @@ The project uses the Unsplash dataset of 25k images, which can be downloaded fro
 
 # Requirements
 The project requires the following dependencies to be installed:
-1. Python 3.6+
-2. Tensorflow
-3. Transformers
-4. Streamlit
-5. numpy
-6. pandas
-7. requests
+1. Python   2. Tensorflow   3. Transformers   4. Streamlit
+5. numpy    6. pandas       7. requests
 
 # Usage
 To use the project, follow these steps:
